@@ -13,5 +13,7 @@ If you are developing a production application, we recommend using TypeScript an
 
 - how to run
 open this folder in VS Code, go to terminal and type
+
       npm i
       npm run dev
+

@@ -17,3 +17,4 @@ open this folder in VS Code, go to terminal and type
       npm i
       npm run dev
 
+website running on : https://charming-dolphin-c372d2.netlify.app/
